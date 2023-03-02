@@ -1,2 +1,2 @@
-Chhenged README
+Changed README
 # alx-pre_course
