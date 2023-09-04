@@ -1,3 +1,3 @@
 Changed README
-# alx-pre_course
+# pre_course
 This is a changed file
